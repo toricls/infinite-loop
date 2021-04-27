@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 
-[license]: https://github.com/toricls/everlasting-hey-yo/blob/master/LICENSE
+[license]: https://github.com/toricls/infinite-loop/blob/master/LICENSE
 It just gives you an infinite loop.
 
 ## Usage
